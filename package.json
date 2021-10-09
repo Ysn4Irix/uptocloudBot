@@ -1,0 +1,17 @@
+{
+  "name": "uptocloud",
+  "description": "A Telegram bot for images & videos to cloudinary",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Ysn4Irix",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "devStart": "nodemon server.js"
+  },
+  "dependencies": {
+    "cloudinary": "^1.27.0",
+    "dotenv": "^10.0.0",
+    "node-telegram-bot-api": "^0.54.0"
+  }
+}
