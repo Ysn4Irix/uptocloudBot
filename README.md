@@ -10,7 +10,7 @@ image url
 Give as a Star 🌟
 
 ## Demo
-You can find to bot [Here](https://t.me/uptocloudBot)
+You can find the bot [Here](https://t.me/uptocloudBot)
 
 ## Installation
 
