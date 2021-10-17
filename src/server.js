@@ -26,7 +26,7 @@ bot.onText(/\/start/, (msg) => {
   const { chat } = msg;
   bot.sendMessage(
     chat.id,
-    "Hi! ✋ Welcome to <strong>UptoCloud</strong> I will upload images or videos to cloudinary and send you the File URL \nJust send me an image or video as <b>Document</b>",
+    "Hi! ✋ Welcome to <strong>UptoCloud</strong> I will upload images to cloudinary and send you the File URL \nJust send me an image or video as <b>Document</b>",
     {
       parse_mode: "HTML",
     }
